@@ -92,12 +92,7 @@ To get a local copy up and running follow these simple example steps:
   
 ## Acknowledgments:
 
-  to [Michael D](https://dribbble.com/altezzik) for his beautiful design
+Nishanth reddy 
+21bce7079
 
-## Author
-
-👤 Carlos Santamaría
-
-* Twitter: [@Flakster ](https://twitter.com/Flakster )
-* Github: [@Flakster](https://github.com/Flakster)
-* Email: contact@carlossantamaria.co
+ 
